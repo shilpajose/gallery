@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,100&family=Roboto+Mono:ital,wght@1,300&family=Roboto:wght@300&family=Ubuntu:ital,wght@1,500&display=swap');
+div{
+    color: rgb(17, 2, 2);
+    height: 550px;
+    width: 30%;
+    background-color: rgba(119, 107, 107, 0.379);
+    padding: 20px;
+    float: left;
+    margin-left: 10px;
+}
+body{
+background-image: url(./images/Books/book.jpg);
+}
+img{
+    width: 100%;
+    height: 300px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+    font-style: italic;
+    text-decoration: double;
+    font-size: 50px;
+}
+h2,h3{
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    font-size: 14px;
+    font-style: italic;
+    font-family: 'Ubuntu', sans-serif;
+    color: antiquewhite;
+}
